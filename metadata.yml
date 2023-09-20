@@ -1,0 +1,12 @@
+---
+:id: 139795579
+:submitters:
+- :name: Gianna Sfrisi
+  :email: gsfrisi@bu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-10 19:18:32.939333000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-10 12:18:32.939333000 Z
+:status: processed
+:score: 80.0
